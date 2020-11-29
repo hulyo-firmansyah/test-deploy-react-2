@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/test-deploy-react-2/static/css/main.d498bfb3.chunk.css",
+    "main.js": "/test-deploy-react-2/static/js/main.37e1ddd7.chunk.js",
+    "main.js.map": "/test-deploy-react-2/static/js/main.37e1ddd7.chunk.js.map",
+    "runtime-main.js": "/test-deploy-react-2/static/js/runtime-main.3ffa1d6f.js",
+    "runtime-main.js.map": "/test-deploy-react-2/static/js/runtime-main.3ffa1d6f.js.map",
+    "static/js/2.8b2bc2ee.chunk.js": "/test-deploy-react-2/static/js/2.8b2bc2ee.chunk.js",
+    "static/js/2.8b2bc2ee.chunk.js.map": "/test-deploy-react-2/static/js/2.8b2bc2ee.chunk.js.map",
+    "index.html": "/test-deploy-react-2/index.html",
+    "precache-manifest.e7daf3f33b5a3cb93ae21ec90cb33153.js": "/test-deploy-react-2/precache-manifest.e7daf3f33b5a3cb93ae21ec90cb33153.js",
+    "service-worker.js": "/test-deploy-react-2/service-worker.js",
+    "static/css/main.d498bfb3.chunk.css.map": "/test-deploy-react-2/static/css/main.d498bfb3.chunk.css.map",
+    "static/js/2.8b2bc2ee.chunk.js.LICENSE.txt": "/test-deploy-react-2/static/js/2.8b2bc2ee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ffa1d6f.js",
+    "static/js/2.8b2bc2ee.chunk.js",
+    "static/css/main.d498bfb3.chunk.css",
+    "static/js/main.37e1ddd7.chunk.js"
+  ]
+}
